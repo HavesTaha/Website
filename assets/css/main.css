@@ -9051,7 +9051,7 @@ abbr[title] {
 .circle-btn .button__bg::before, .circle-btn .button__bg::after {
   content: '';
   position: absolute;
-  background: #CEFF0A; }
+  background: #ffffff; }
 
 .circle-btn .button__bg::before {
   width: 110%;
@@ -10064,7 +10064,7 @@ abbr[title] {
     right: 0;
     width: 100%;
     height: 56.5%;
-    background: linear-gradient(359deg, #C4EF17 6.31%, rgba(111, 136, 9, 0) 62%);
+    background: linear-gradient(359deg, #df0202 6.31%, rgba(111, 136, 9, 0) 62%);
     opacity: 0;
     visibility: hidden;
     -webkit-transition: 0.3s;
